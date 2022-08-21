@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DesignPatterns.BuilderPattern
 {
-    class BuilderPattern
+    class SingletonPattern
     {
 
 
