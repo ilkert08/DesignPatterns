@@ -29,6 +29,7 @@ namespace DesignPatterns
             Console.WriteLine("Item name: {0}", item.Name);
         }
 
+
         private static void multiThreadSingleton()
         {
             var item = SingleItemMultiThread.GetSingleItem();
