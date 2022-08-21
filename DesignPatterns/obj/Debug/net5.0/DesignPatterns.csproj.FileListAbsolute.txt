@@ -1,0 +1,16 @@
+C:\Users\ilker\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\DesignPatterns.exe
+C:\Users\ilker\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\DesignPatterns.deps.json
+C:\Users\ilker\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\DesignPatterns.runtimeconfig.json
+C:\Users\ilker\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\DesignPatterns.runtimeconfig.dev.json
+C:\Users\ilker\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\DesignPatterns.dll
+C:\Users\ilker\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\ref\DesignPatterns.dll
+C:\Users\ilker\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\DesignPatterns.pdb
+C:\Users\ilker\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\DesignPatterns.csproj.AssemblyReference.cache
+C:\Users\ilker\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilker\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\ilker\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\DesignPatterns.AssemblyInfo.cs
+C:\Users\ilker\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\ilker\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\DesignPatterns.dll
+C:\Users\ilker\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\ref\DesignPatterns.dll
+C:\Users\ilker\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\DesignPatterns.pdb
+C:\Users\ilker\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\DesignPatterns.genruntimeconfig.cache
